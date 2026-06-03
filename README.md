@@ -14,7 +14,7 @@
 
 # 1. Team Identity
 
-## 1.1 Team Name
+## 1.1 Team Name and Photo
 
 ---
 
