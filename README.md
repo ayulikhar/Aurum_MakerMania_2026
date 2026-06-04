@@ -22,9 +22,9 @@
 
 | Name | Role | Skills |
 | ---- | ---- | ------ |
-|      |      |        |
-|      |      |        |
-|      |      |        |
+| Ayush Likhar | Collaborator | Hardware |
+| Kartik Phadale | Collaborator | Software |
+| Meezaan Malik | Collaborator | Design |
 
 ---
 
