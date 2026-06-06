@@ -15,6 +15,7 @@
 # 1. Team Identity
 
 ## 1.1 Team Name and Photo
+<img width="1280" height="720" alt="WhatsApp Image 2026-06-06 at 12 39 31 PM" src="https://github.com/user-attachments/assets/1b4aa736-58df-420b-bf1f-398b5489473d" />
 
 ---
 
