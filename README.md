@@ -149,7 +149,7 @@ User __________ needs a way to __________ because __________.
 
 | Idea | Advantages | Challenges |
 | ---- | ---------- | ---------- |
-|      |            |            |
+| Arterial Aging Ring  | Can detect arterial health, blockages  | Miniature, Accuracy |
 |      |            |            |
 
 ---
