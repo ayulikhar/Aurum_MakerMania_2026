@@ -30,7 +30,10 @@
 ---
 # Useless Product Link
 https://youtu.be/-Jjdkq18U_4
-
+---
+# SCAMPER PROJECT 
+https://1drv.ms/p/c/c6b1c4d0bfa1a2d2/IQAcbvFI4a4YR6u9E6l7ya9vAZwWg2kD-QSHdWZtFSUPwtM?e=thSRv1
+---
 # 2. Problem Discovery
 
 ## 2.1 Observation Area
