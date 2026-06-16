@@ -119,7 +119,7 @@ Number of users interviewed: ______
 
 ## Problem Statement
 
-User __________ needs a way to __________ because __________.
+User __________ needs a way to test water quality because __________.
 
 ---
 
@@ -153,7 +153,12 @@ User __________ needs a way to __________ because __________.
 | Idea | Advantages | Challenges |
 | ---- | ---------- | ---------- |
 | Arterial Aging Ring  | Can detect arterial health, blockages  | Miniature, Accuracy |
-|      |            |            |
+| Compression Stockings     | Varicose Veins Relief           |            |
+| Trash Compactor | Increased Storage Efficiency, Odour Removal  | Proof of Comcept |
+| River Cleaaning UAV | Pilotless water body cleaning | |
+| Touch Sensing Glove with Haptics | Brings Realistic Feedback | Application and comfort Challenges |
+| Tamperproof Weighbridge | Ensures fraud free loading | System Integration |
+| ---- | ---------- | ---------- |
 
 ---
 
