@@ -158,7 +158,6 @@ User __________ needs a way to test water quality because __________.
 | River Cleaaning UAV | Pilotless water body cleaning | |
 | Touch Sensing Glove with Haptics | Brings Realistic Feedback | Application and comfort Challenges |
 | Tamperproof Weighbridge | Ensures fraud free loading | System Integration |
-| ---- | ---------- | ---------- |
 
 ---
 
@@ -200,11 +199,24 @@ List displays, actuators, software outputs.
 
 | Component | Purpose |
 | --------- | ------- |
-|           |         |
-|           |         |
+| ESP32 NodeMCU Development Board | System timing, nRF24 SPI interface, I2C polling, hardware timers for optical tracking |
+| ADS1115 16-Bit I2C ADC Module | Overcomes the noisy, non-linear internal ADC of the ESP32 to capture microvolt changes from the custom pH sensor |
+| Double-Sided Copper-Clad PCB Board Blank | Slashed into small rectangles to create the physical sensing pad and reference pad surfaces.  |
+| Concentrated Sodium Hypochlorite (Bleach) + Sandpaper | Used as an oxidizer on the copper track to grow the reactive copper-oxide (CuO) sensing layer|
+| 5V 650nm Red Laser Diode (6mm diameter, 5mW) |Projects a tight optical beam through the diagonal entry tunnel. |
+| Glass Microscope Coverslips (0.13 - 0.17mm thick) | Acts as the optically flat, scratch-resistant window sealed into the 45-degree pocket |
+| TSL1401CL Linear Photodiode Array (128 Pixels) | Captures the high-resolution spatial displacement of the laser beam spot down to fractional subpixels |
+| Dual Light-Dependent Resistors (LDRs) + Razor Blade | Ultra-scalable alternative: Two matching LDRs separated by an opaque blade edge to form a basic analog differential balance pair |
+| 2x nRF24L01+ 2.4 GHz Transceiver Modules | Mounted entirely outside the cup walls to measure signal amplitude drop (RSSI) through the liquid column.|
+| 2x 2.4 GHz PCB Directional Patch Antennas | Focuses the RF energy straight through the liquid column, minimizing external multipath interference |
+| DS18B20 Waterproof Temperature Probe | Real-time thermal tracking to dynamically recalculate the temperature-dependent Nernst slope for the pH firmware|
+| Assorted Resistors (10kΩ, 4.7kΩ), 0.1µF Capacitors | Pull-up resistors for the 1-Wire temperature bus, voltage dividers for LDR paths, and decoupling caps for RF rails |
+| Clear Marine-Grade Silicone RTV or 2-Part Transparent Epoxy | Creates a reliable waterproof seal around the glass coverslip insert and wire pass through tunnels |
+| Turbidity Sensor with Module | Measures water clarity by dropping an infrared emitter/receiver probe directly into the liquid.        |
+| pH-4502C Liquid pH Sensor Module + E-201-C Glass Combination Electrode | Measures hydrogen ion activity using a traditional glass bulb probe with a BNC connector interface board 
+| TP4056 , Lipo cells |      |
 
 ---
-
 ## Software
 
 | Tool | Purpose |
