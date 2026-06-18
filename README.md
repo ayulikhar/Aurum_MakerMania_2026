@@ -119,7 +119,7 @@ Number of users interviewed: ______
 
 ## Problem Statement
 
-User __________ needs a way to test water quality because __________.
+Households users need a way to check water quality because contaminated water can cause serious health risks.
 
 ---
 
