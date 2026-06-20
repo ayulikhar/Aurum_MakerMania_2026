@@ -153,9 +153,9 @@ Households users need a way to check water quality because contaminated water ca
 | Idea | Advantages | Challenges |
 | ---- | ---------- | ---------- |
 | Arterial Aging Ring  | Can detect arterial health, blockages  | Miniature, Accuracy |
-| Compression Stockings     | Varicose Veins Relief           |            |
-| Trash Compactor | Increased Storage Efficiency, Odour Removal  | Proof of Comcept |
-| River Cleaaning UAV | Pilotless water body cleaning | |
+| Compression Stockings     | Varicose Veins Relief           | Graduated compression accuracy, cost-effective production |
+| Trash Compactor | Increased Storage Efficiency, Odour Removal  | Proof of Concept |
+| River Cleaaning UAV | Pilotless water body cleaning | Limited large-scale capacity, autonomous navigation challenges |
 | Touch Sensing Glove with Haptics | Brings Realistic Feedback | Application and comfort Challenges |
 | Tamperproof Weighbridge | Ensures fraud free loading | System Integration |
 
