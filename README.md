@@ -221,8 +221,9 @@ List displays, actuators, software outputs.
 
 | Tool | Purpose |
 | ---- | ------- |
-|      |         |
-|      |         |
+| KiCAD     |  PCB Design       |
+| OpenSCAD     | 3D Model Design        |
+| BambuLab     | 3D print  |
 
 ---
 
