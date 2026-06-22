@@ -207,13 +207,19 @@ Insert diagram here.
 
 ## Inputs
 
-List sensors, user inputs, data sources.
-
+|Input | Importance |
+|---- |------ |
+| Water Sample in Cup | Main physical input |  
+| | |
+| | |
 ---
 
 ## Outputs
 
-List displays, actuators, software outputs.
+| Sensors | Output |
+|----- |----- |
+|LCD / Display Output | Turbidity reading, clarity percentage, status (clear, cloudy, dirty) |
+|Buzzer | Alert |
 
 ---
 
