@@ -201,7 +201,8 @@ The solution provides a cup-based turbidity testing system that accepts a water 
 
 ## Block Diagram
 
-Insert diagram here.
+<img width="406" height="520" alt="image" src="https://github.com/user-attachments/assets/e69a6e5e-1c4b-4669-ae6d-4fcafbc2ec09" />
+
 
 ---
 
