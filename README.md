@@ -195,7 +195,7 @@ Why was this concept chosen?
 
 ## High-Level Description
 
-Explain your solution.
+The solution provides a cup-based turbidity testing system that accepts a water sample, measures its cloudiness through an embedded sensor, and displays or transmits the resulting water quality assessment.
 
 ---
 
