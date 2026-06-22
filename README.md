@@ -56,7 +56,7 @@ Where did you conduct your observations?
 
 What are users doing?
 Filling drinking water from tap, borewell, or overhead tank before consuming
-Storing water in containers; pots, buckets, plastic cans — for daily household use
+Storing water in containers; pots, buckets, plastic cans for daily household use
 Manually checking water appearance against light or smell before use
 Operating water purifiers (RO/UV) with little understanding of output quality
 Buying packaged drinking water due to distrust of tap supply
@@ -82,7 +82,7 @@ Neighbours and community; informal word-of-mouth about water quality
 ### Objects
 
 What tools or products are used?
-Plastic storage containers and overhead tanks — primary water holding vessels
+Plastic storage containers and overhead tanks, primary water holding vessels
 RO/UV purifiers: trusted but unmonitored for actual output quality
 TDS pen meters: used by some urban households, numeric output not understood
 Packaged water bottles: costly substitute when tap water is distrusted
