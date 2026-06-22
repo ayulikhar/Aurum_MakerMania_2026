@@ -210,8 +210,10 @@ Insert diagram here.
 |Input | Importance |
 |---- |------ |
 | Water Sample in Cup | Main physical input |  
-| | |
-| | |
+| Colorimetry | pH Value    |
+| RGB Sensor | pH level determination |
+| nRF24L01  | Transmission of EM waves |
+
 ---
 
 ## Outputs
