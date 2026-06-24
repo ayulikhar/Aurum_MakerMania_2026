@@ -188,6 +188,8 @@ Households users need a way to check water quality because contaminated water ca
 ## Selected Concept
 
 Why was this concept chosen?
+Waterborne illness remains a leading cause of disease in Indian households. Simultaneously, no single affordable device measures all critical parameters together. Water can pass TDS comfortably and still be dangerously acidic or heavily contaminated with fine particulates. The parameters are interdependent but are currently measured in isolation if at all. 
+Each subsystem is a self-contained learning module. The TDS refractometry covers physical optics and numerical methods. Turbidity covers photonics and analog circuit design. Together they represent a systems integration challenge that mirrors professional product development. 
 
 ---
 
@@ -255,7 +257,7 @@ The solution provides a cup-based turbidity testing system that accepts a water 
 | Tool | Purpose |
 | ---- | ------- |
 | KiCAD     |  PCB Design       |
-| OpenSCAD     | 3D Model Design        |
+| OpenSCAD     | 3D Model Design  |
 | BambuLab     | 3D print  |
 
 ---
