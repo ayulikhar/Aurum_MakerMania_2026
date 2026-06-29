@@ -55,6 +55,7 @@ Where did you conduct your observations?
 ### Activities
 
 What are users doing?
+
 Filling drinking water from tap, borewell, or overhead tank before consuming
 Storing water in containers; pots, buckets, plastic cans for daily household use
 Manually checking water appearance against light or smell before use
@@ -64,6 +65,7 @@ Buying packaged drinking water due to distrust of tap supply
 ### Environment
 
 What conditions affect them?
+
 Urban apartments and peri-urban areas with inconsistent municipal supply quality
 Rural homes relying on borewell or hand-pump water with unknown contamination
 Post-monsoon periods; sediment and biological load spike in surface water
@@ -73,6 +75,7 @@ Power outages common; device cannot depend on mains supply during testing
 ### Interactions
 
 Who or what are they interacting with?
+
 Water source; tap, tanker, borewell, stored container
 Household members; mother making decisions for children's drinking water
 Water purifier (RO/UV); users trust it blindly without verifying output
@@ -81,7 +84,6 @@ Neighbours and community; informal word-of-mouth about water quality
 
 ### Objects
 
-What tools or products are used?
 Plastic storage containers and overhead tanks, primary water holding vessels
 RO/UV purifiers: trusted but unmonitored for actual output quality
 TDS pen meters: used by some urban households, numeric output not understood
@@ -89,7 +91,6 @@ Packaged water bottles: costly substitute when tap water is distrusted
 No pH or turbidity tools in a typical household: gap this device fills
 ### Users
 
-Who are the primary users?
 Homemakers (25–55 yrs); primary decision-makers for household drinking water, non-technical
 Renters in urban areas; no control over plumbing, high need to verify supplied water
 Rural households; borewell-dependent, no access to lab testing, low literacy
@@ -186,8 +187,6 @@ Households users need a way to check water quality because contaminated water ca
 ---
 
 ## Selected Concept
-
-Why was this concept chosen?
 
 Waterborne illness remains a leading cause of disease in Indian households. Simultaneously, no single affordable device measures all critical parameters together. Water can pass TDS comfortably and still be dangerously acidic or heavily contaminated with fine particulates. The parameters are interdependent but are currently measured in isolation if at all. 
 Each subsystem is a self-contained learning module. The TDS refractometry covers physical optics and numerical methods. Turbidity covers photonics and analog circuit design. Together they represent a systems integration challenge that mirrors professional product development. 
