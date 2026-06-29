@@ -188,6 +188,7 @@ Households users need a way to check water quality because contaminated water ca
 ## Selected Concept
 
 Why was this concept chosen?
+
 Waterborne illness remains a leading cause of disease in Indian households. Simultaneously, no single affordable device measures all critical parameters together. Water can pass TDS comfortably and still be dangerously acidic or heavily contaminated with fine particulates. The parameters are interdependent but are currently measured in isolation if at all. 
 Each subsystem is a self-contained learning module. The TDS refractometry covers physical optics and numerical methods. Turbidity covers photonics and analog circuit design. Together they represent a systems integration challenge that mirrors professional product development. 
 
@@ -274,7 +275,7 @@ A vertically oriented, two-section cylindrical assembly designed to house a mult
 
 ## Version 1
 
-Description:
+Description: 
 
 Lessons Learned:
 
