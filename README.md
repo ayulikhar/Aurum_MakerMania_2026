@@ -277,22 +277,33 @@ A vertically oriented, two-section cylindrical assembly designed to house a mult
 
 Description: 
 
-Lessons Learned:
+Two ESP32-C3 Supermini boards configured in an ESP-NOW Master-Slave architecture, placed on opposite sides of a water-filled cup. The Master transmitted packets at fixed maximum TX power while the Slave measured RSSI values, attempting to correlate signal attenuation with turbidity levels.
 
+Lessons Learned:
+- RSSI behaved opposite to expectation — signal was stronger through turbid water than clean water due to particles displacing water and reducing bulk dielectric loss
+- At drinking water turbidity ranges (0–500 NTU), particle volume fraction is below 0.002%, making the dielectric change too small to detect within ESP32's 1 dBm RSSI resolution floor
+- RF signal leaked around the water container rather than through it, meaning ambient reflections from walls and surfaces dominated the readings
+- This is a fundamental physics constraint, not a fixable engineering or code problem
 ---
 
 ## Version 2
 
 Description:
+Same ESP32-C3 Supermini hardware reprogrammed with a power sweep method. Instead of reading RSSI, the Master stepped TX power down from 21 dBm to 5 dBm in 8 discrete levels, sending 10 packets at each level. The Slave sent ACK packets back reporting reception count per level. The power threshold at which packet reception dropped below 50% was used as a turbidity proxy.
 
 Lessons Learned:
 
+- Channel mismatch error (Peer channel is not equal to home channel) required switching from WiFi.channel() to esp_wifi_set_promiscuous() + esp_wifi_set_channel() for correct channel locking
+- Power sweep output was identical regardless of water presence, turbidity level, or board orientation — confirming that even the binary threshold method cannot resolve turbidity changes at the signal magnitudes available over a 5cm path at 2.4GHz
+- RF shielding with aluminum foil was attempted to force signal through water only, with no measurable improvement
+- The 103 dBm of remaining link budget after water attenuation is too large — turbidity-induced loss is buried orders of magnitude below the noise floor
 ---
 
 ## Final Prototype
 
 Description:
 
+In progress
 ---
 
 # 9. Testing & Validation
