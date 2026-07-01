@@ -296,7 +296,7 @@ Lessons Learned:
 - RF shielding with aluminum foil was attempted to force signal through water only, with no measurable improvement
 - The 103 dBm of remaining link budget after water attenuation is too large — turbidity-induced loss is buried orders of magnitude below the noise floor
 ---
-
+DOCUMENTATION LINK: <https://docs.google.com/document/d/1FKyJl6S2ex2YoXibOfduwqcpoKrc6gzWdBtXB66RiD4/edit?usp=sharing>
 ## Final Prototype
 
 Description:
