@@ -56,46 +56,47 @@ Where did you conduct your observations?
 
 What are users doing?
 
-Filling drinking water from tap, borewell, or overhead tank before consuming
-Storing water in containers; pots, buckets, plastic cans for daily household use
-Manually checking water appearance against light or smell before use
-Operating water purifiers (RO/UV) with little understanding of output quality
-Buying packaged drinking water due to distrust of tap supply
+Filling drinking water from taps, borewells, or overhead tanks before consuming
+Storing water in containers such as pots, buckets, and plastic cans for daily household use
+Manually checking water appearance against light or checking by smell before use
+Operating water purifiers (RO/UV) with little understanding of actual output quality
+Buying packaged drinking water due to distrust of the tap supply
 
 ### Environment
 
 What conditions affect them?
 
 Urban apartments and peri-urban areas with inconsistent municipal supply quality
-Rural homes relying on borewell or hand-pump water with unknown contamination
-Post-monsoon periods; sediment and biological load spike in surface water
-Kitchens and storage areas; device must survive humidity, soap splashes
-Power outages common; device cannot depend on mains supply during testing
+Rural homes relying on borewell or hand-pump water with unknown contamination levels
+Post-monsoon periods where sediment and biological load spike in surface water
+Kitchens and storage areas where any device must survive humidity and incidental water exposure
+Frequent power outages in many regions, meaning the device cannot depend on mains supply during testing
 
 ### Interactions
 
 Who or what are they interacting with?
 
-Water source; tap, tanker, borewell, stored container
-Household members; mother making decisions for children's drinking water
-Water purifier (RO/UV); users trust it blindly without verifying output
-Municipality or tanker supplier; complaints made verbally, no data to back them
-Neighbours and community; informal word-of-mouth about water quality
+Water sources including taps, tanker trucks, borewells, and stored containers
+Household members, particularly mothers making water safety decisions for children
+Water purifiers (RO/UV) that users trust without verifying actual output quality
+Municipality or tanker suppliers, where complaints are made verbally with no data to support them
+Neighbours and community members, through informal word-of-mouth about water quality
 
 ### Objects
 
-Plastic storage containers and overhead tanks, primary water holding vessels
-RO/UV purifiers: trusted but unmonitored for actual output quality
-TDS pen meters: used by some urban households, numeric output not understood
-Packaged water bottles: costly substitute when tap water is distrusted
-No pH or turbidity tools in a typical household: gap this device fills
+Plastic storage containers and overhead tanks as primary water holding vessels
+RO/UV purifiers that are trusted but unmonitored for actual output quality
+TDS pen meters used by some urban households, though the numeric output is rarely understood
+Packaged water bottles purchased as a costly substitute when tap water is distrusted
+No pH or turbidity measurement tools are present in a typical household — this is the gap this device addresses
+
 ### Users
 
-Homemakers (25–55 yrs); primary decision-makers for household drinking water, non-technical
-Renters in urban areas; no control over plumbing, high need to verify supplied water
-Rural households; borewell-dependent, no access to lab testing, low literacy
-Parents with young children : heightened concern, willing to act on safety signals
-Small food businesses: tea stalls, tiffin centres needing quick daily water checks
+Homemakers (25–55 years): primary decision-makers for household drinking water, generally non-technical
+Renters in urban areas: no control over plumbing infrastructure, high need to verify supplied water
+Rural households: borewell-dependent, no access to laboratory testing, often low literacy
+Parents with young children: heightened concern, willing to act on clear safety signals
+Small food businesses such as tea stalls and tiffin centres needing quick, repeatable daily water checks
 
 ---
 
@@ -144,30 +145,27 @@ Number of users interviewed: ______
 
 ## Problem Statement
 
-Households users need a way to check water quality because contaminated water can cause serious health risks.
+Household users, particularly in Indian urban and semi-urban contexts, have no affordable, reliable, and easy-to-use tool to simultaneously assess multiple water quality parameters at the point of use. As a result, they either consume potentially unsafe water without knowing it, or spend unnecessarily on packaged alternatives. Existing solutions are either single-parameter, too expensive, or require technical knowledge to interpret.
 
 ---
 
 ## How Might We Questions
 
-1.
-
-2.
-
-3.
-
+1. How might we make water quality assessment as simple as filling a cup, with no technical skill required?
+2. How might we measure pH, turbidity, and TDS simultaneously without submerging any electrical components in the water?
+3. How might we deliver a multi-parameter water quality device at a unit cost low enough for household adoption across income levels?
 ---
 
 ## Opportunity Ranking
 
-| Criteria         | Score |
-| ---------------- | ----- |
-| Severity         |       |
-| Frequency        |       |
-| Feasibility      |       |
-| Novelty          |       |
-| Market Potential |       |
-| Total            |       |
+| Criteria         | Score   |
+| ---------------- | -----   |
+| Severity         |   9     |
+| Frequency        |   9     |
+| Feasibility      |   7     |
+| Novelty          |   9     |
+| Market Potential |   8     |
+| Total            |   42    |
 
 ---
 
